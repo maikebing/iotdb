@@ -35,3 +35,6 @@
 
 * ### Go
     参考 [Go 原生接口](../API/Programming-Go-Native-API.md)
+    
+* ### C# 
+    参考 [C#原生接口 ](https://github.com/eedalong/Apache-IoTDB-Client-CSharp)
